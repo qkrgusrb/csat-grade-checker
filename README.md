@@ -50,7 +50,7 @@
 2.  **소스 코드 다운로드**
     * 이 저장소의 코드를 다운로드하거나 `git clone` 명령어를 사용합니다.
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/csat-grade-checker.git](https://github.com/YOUR_USERNAME/csat-grade-checker.git)
+    git clone [https://github.com/qkrgusrb/csat-grade-checker.git](https://github.com/YOUR_USERNAME/csat-grade-checker.git)
     ```
 
 3.  **프로그램 실행**
@@ -60,4 +60,3 @@
     ```
 
 이제 안내에 따라 과목과 점수를 입력하면 결과를 확인할 수 있습니다.
-중요: 위 README.md 내용 중 YOUR_USERNAME 부분은 본인의 GitHub 사용자 이름으로 변경해야 합니다.
