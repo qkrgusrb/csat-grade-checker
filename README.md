@@ -50,7 +50,7 @@
 2.  **소스 코드 다운로드**
     * 이 저장소의 코드를 다운로드하거나 `git clone` 명령어를 사용합니다.
     ```bash
-    git clone [https://github.com/qkrgusrb/csat-grade-checker.git](https://github.com/YOUR_USERNAME/csat-grade-checker.git)
+    git clone https://github.com/qkrgusrb/csat-grade-checker.git(https://github.com/qkrgusrb/csat-grade-checker.git)
     ```
 
 3.  **프로그램 실행**
